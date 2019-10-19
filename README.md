@@ -1,6 +1,8 @@
 # dcservo
 by misan
 
+This fork contains STM32 hardware work.
+
 This project uses and Arduino (or similar) to create a closed-loop position control for a DC motor to act 
 as a replacement of a stepper motor and its drive electronics. In order to be compatible with stepper logic
 controller accepts two inputs STEP and DIRECTION so an external trajectory controller can operate the motor
